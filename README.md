@@ -7,8 +7,8 @@
 
 
 - <b>Linux (Ubuntu)</b>
-  - [Linux Description](https://github.com/user-attachments/assets/3376d493-fc65-45b6-8d74-5eb9b609275a)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Using a variety of Linux commands on an Ubuntu System](https://github.com/user-attachments/assets/17ca4fcd-eff7-40cc-9e1a-da12570464b2)
+  - [Copying Files to different locations in Ubuntu](https://github.com/user-attachments/assets/666eb982-826e-463b-b5eb-22d083b71c6a)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Linux (Red Hat)</b>
