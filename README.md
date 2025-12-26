@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Computer Builds</b>
-  - [My Personal Computer](<img src="C:\Users\danam\Desktop\Resumes\Personal Computers.jpg" alt="Personal Computers">)
+  - [My Personal Computer][1000026233](https://github.com/user-attachments/assets/da3dbfd8-2a6b-4a1b-a83c-7ed9c580c058)
+
 - <b>Linux (Ubuntu)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
