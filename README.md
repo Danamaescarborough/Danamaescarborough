@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Computer Builds</b>
-  [My Personal Computer](https://github.com/user-attachments/assets/e9b1e486-51c0-4ae7-900f-86dffa858780)
+  - [My Personal Computer](https://github.com/user-attachments/assets/e9b1e486-51c0-4ae7-900f-86dffa858780)
 
 
 - <b>Linux (Ubuntu)</b>
