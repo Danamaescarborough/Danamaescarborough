@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Computer Builds</b>
-  - [My Personal Computer][1000026233](https://github.com/user-attachments/assets/da3dbfd8-2a6b-4a1b-a83c-7ed9c580c058)
+  - [My Personal Computer](https://github.com/user-attachments/assets/da3dbfd8-2a6b-4a1b-a83c-7ed9c580c058)
 
 - <b>Linux (Ubuntu)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
