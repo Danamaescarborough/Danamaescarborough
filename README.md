@@ -23,7 +23,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[LinkedIn](https://linkedin.com/in/danamaescarborough)
+- [LinkedIn](https://linkedin.com/in/danamaescarborough)
 
 - 🔭 I’m currently about to start my Master's Degree program at University of Maryland Global Campus, as I have just completed my Bachelor's of Science.
 - 🌱 I’m currently studying for my CompTIA Security+ certification.
