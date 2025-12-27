@@ -25,7 +25,7 @@
 
 - [LinkedIn](https://linkedin.com/in/danamaescarborough)
 
-<h2>Current and Future Goals</h2>
+<h2>Current and Future Ventures</h2>
 
 - 🔭 I’m currently about to start my Master's Degree program at University of Maryland Global Campus, as I have just completed my Bachelor's of Science.
 - 🌱 I’m currently studying for my CompTIA Security+ certification.
