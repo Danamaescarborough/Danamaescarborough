@@ -28,7 +28,7 @@
 <h2>Current and Future Ventures</h2>
 
 - 🔭 I’m currently about to start my Master's Degree program at University of Maryland Global Campus, as I have just completed my Bachelor's of Science.
-- 🌱 I’m currently studying for my CompTIA Security+ certification.
+- 🌱 I’m currently studying for my CompTIA Security+, and the AWS Cloud Practitioner certification.
 - 👯 I’m looking to collaborate on further delving into data analysis.
 - 💬 Ask me about Cybersecurity, Networking and Linux!
 - 📫 How to reach me: Danamae.scarborough@maryland.gov
