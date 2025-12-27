@@ -29,6 +29,6 @@
 - 🌱 I’m currently studying for my CompTIA Security+ certification.
 - 👯 I’m looking to collaborate on further delving into data analysis.
 - 💬 Ask me about Cybersecurity, Networking and Linux!
-- 📫 How to reach me: Danamae.scarborough@maryalnd.gov
+- 📫 How to reach me: Danamae.scarborough@maryland.gov
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I ride a Honda Rebel 500 Motorcycle!
