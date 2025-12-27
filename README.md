@@ -12,7 +12,7 @@
 - <b>Linux (Red Hat)</b>
   - [Red Hat Linux examples]
   - [I plan on building an SOC in Linux and documenting it to show I have experience using a security dashboard!]
-- <b>Certifications (linked to credly badges for proof)</b>
+- <b>Certifications</b>
   - [CompTIA Network+](https://www.credly.com/badges/397b6839-14dc-467b-bd51-857686f476fe)
   - [ISC2 CC](https://www.credly.com/badges/beab103b-dcc0-43f9-b95f-4529b90edbd7)
   - [CompTIA A+](https://www.credly.com/badges/f3d783dc-7a11-41c0-8ecc-3a55b6e2f039)
