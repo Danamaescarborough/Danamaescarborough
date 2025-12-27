@@ -7,7 +7,7 @@
 
 
 - <b>Linux (Ubuntu)</b>
-  - [Using a variety of Linux commands on an Ubuntu System](https://github.com/user-attachments/assets/17ca4fcd-eff7-40cc-9e1a-da12570464b2)
+  - [Changing directories, copying, creating and moving files in Linux Ubuntu](https://github.com/user-attachments/assets/17ca4fcd-eff7-40cc-9e1a-da12570464b2)
   - [Copying Files to different locations in Ubuntu](https://github.com/user-attachments/assets/666eb982-826e-463b-b5eb-22d083b71c6a)
 - <b>Linux (Red Hat)</b>
   - [Red Hat Linux examples]
