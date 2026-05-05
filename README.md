@@ -1,6 +1,6 @@
 <h1>Hi, I'm Danamae Scarborough! <br/><a href="https://github.com/Danamaescarborough">IT Professional</a>, <a href="https://www.linkedin.com/in/danamaescarborough/">Cybersecurity Specialist</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects:</h2>
 
 - <b>Computer Builds</b>
   - [My Personal Computer](https://github.com/user-attachments/assets/e9b1e486-51c0-4ae7-900f-86dffa858780)
