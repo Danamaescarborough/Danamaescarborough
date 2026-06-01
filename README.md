@@ -9,8 +9,6 @@
 - <b>Linux (Ubuntu)</b>
   - [Changing directories, copying, creating and moving files in Linux Ubuntu](https://github.com/user-attachments/assets/17ca4fcd-eff7-40cc-9e1a-da12570464b2)
   - [Copying Files to different locations in Ubuntu](https://github.com/user-attachments/assets/666eb982-826e-463b-b5eb-22d083b71c6a)
-- <b>Linux (Red Hat)</b>
-  - [I plan on building an SOC in Linux and documenting it to show I have experience using a security dashboard!]
 - <b>Certifications</b>
   - [CompTIA Security+](https://www.credly.com/earner/earned/badge/7c98dbfc-f683-41d5-9834-099a355a5423)
   - [CompTIA Network+](https://www.credly.com/badges/397b6839-14dc-467b-bd51-857686f476fe)
