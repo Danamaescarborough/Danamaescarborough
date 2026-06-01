@@ -1,34 +1,50 @@
-<h1>Hi, I'm Danamae Scarborough! <br/><a href="https://github.com/Danamaescarborough">IT Professional</a>, <a href="https://www.linkedin.com/in/danamaescarborough/">Cybersecurity Specialist</a></h1>
+# Hi, I'm Danamae Scarborough
 
-<h2> Cybersecurity Projects:</h2>
+**Cybersecurity | GIS | Technical Support | Data Management**
 
-- <b>Computer Builds</b>
-  - [My Personal Computer](https://github.com/user-attachments/assets/e9b1e486-51c0-4ae7-900f-86dffa858780)
+I'm a technology professional with a background in Maryland state government, GIS, cybersecurity, technical support, and data management. My experience includes supporting ArcGIS Pro, ArcGIS Online, Survey123, SharePoint, field laptops, mobile data collection tools, and operational databases.
 
+I hold a B.S. in Cybersecurity Technology, an Undergraduate Certificate in Cyber Threat Hunting, and industry certifications including CompTIA Security+, Network+, A+, ISC2 Certified in Cybersecurity, and the Google Cybersecurity Professional Certificate. I am currently pursuing an M.S. in Cybersecurity Technology.
 
-- <b>Linux (Ubuntu)</b>
-  - [Changing directories, copying, creating and moving files in Linux Ubuntu](https://github.com/user-attachments/assets/17ca4fcd-eff7-40cc-9e1a-da12570464b2)
-  - [Copying Files to different locations in Ubuntu](https://github.com/user-attachments/assets/666eb982-826e-463b-b5eb-22d083b71c6a)
-- <b>Certifications</b>
-  - [CompTIA Security+](https://www.credly.com/earner/earned/badge/7c98dbfc-f683-41d5-9834-099a355a5423)
-  - [CompTIA Network+](https://www.credly.com/badges/397b6839-14dc-467b-bd51-857686f476fe)
-  - [ISC2 CC](https://www.credly.com/badges/beab103b-dcc0-43f9-b95f-4529b90edbd7)
-  - [CompTIA A+](https://www.credly.com/badges/f3d783dc-7a11-41c0-8ecc-3a55b6e2f039)
+## Technical Areas
 
-<h2>📺 YouTube Videos</h2>
+- **Cybersecurity:** Security fundamentals, vulnerability assessment, network traffic analysis, threat analysis
+- **Networking:** TCP/IP, DNS, DHCP, basic troubleshooting, packet analysis
+- **Operating Systems:** Windows 10/11, Ubuntu Linux, Red Hat Enterprise Linux
+- **GIS & Data:** ArcGIS Pro, ArcGIS Online, Survey123, SharePoint, spatial data, reporting workflows
+- **Tools:** Wireshark, Nmap, OpenVAS, VMware Workstation, AWS EC2, osTicket
+- **Programming:** Python, SQL
 
-- [Using Linux to connect to Telnet port 23](https://www.youtube.com/watch?v=szlWoRgHLe0&t=227s)
+## Projects
 
-<h2> 🤳 Connect with me:</h2>
+### Cybersecurity & Networking
+- Vulnerability scanning and network analysis using Nmap, OpenVAS, and Wireshark
+- Packet analysis and basic network troubleshooting labs
+- Security-focused home lab projects using virtual machines
 
-- [LinkedIn](https://linkedin.com/in/danamaescarborough)
+### Linux & Systems Administration
+- Ubuntu and Red Hat Linux practice environments
+- User account management, file permissions, SSH, system updates, and command-line administration
+- AWS EC2 Linux instance deployment and configuration
 
-<h2>Current and Future Ventures</h2>
+### IT Support & Help Desk Practice
+- osTicket help desk environment for ticket creation, user support workflows, and issue tracking
+- Windows troubleshooting, printer support, endpoint setup, and technical documentation practice
 
-- 🔭 I’m currently about to start my Master's Degree program at University of Maryland Global Campus, as I have just completed my Bachelor's of Science.
-- 🌱 I’m currently studying for my CompTIA Security+, and the AWS Cloud Practitioner certification.
-- 👯 I’m looking to collaborate on further delving into data analysis.
-- 💬 Ask me about Cybersecurity, Networking and Linux!
-- 📫 How to reach me: Danamae.scarborough@maryland.gov
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I ride a Honda Rebel 500 Motorcycle!
+### GIS & Data Management
+- ArcGIS Pro and ArcGIS Online mapping workflows
+- Survey123 data collection applications
+- SharePoint-based operational databases and user access management
+
+## Certifications
+
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- ISC2 Certified in Cybersecurity (CC)
+- Google Cybersecurity Professional Certificate
+
+## Connect
+
+- LinkedIn: linkedin.com/in/danamaescarborough
+- GitHub: github.com/Danamaescarborough
